@@ -1,0 +1,26 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{natbib}
+\usepackage{url}
+\usepackage{graphicx} 
+\usepackage{svg} 
+
+\title{Urban Climate}
+\author{René Ruber}
+\date{\today}
+\begin{document}
+\maketitle
+Urban form strongly affects local temperature through geometry and material properties. For example, \citet{oke1982energy} developed the fundamental energy balance model
+for urban surfaces. More recent studies such as \citet{stewart2011classification}
+and \citet{Nunez-Peiro2021} expanded this to classify and quantify urban environments.
+
+\begin{figure}[h]
+    \centering
+    \includesvg[width=0.8\textwidth]{Zeichnung.svg}
+    \caption{Streets of the City}
+    \label{fig:urban_climate}
+\end{figure}
+
+\bibliographystyle{plainnat}
+\bibliography{references}
+\end{document}
