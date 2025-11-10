@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="messing around with inkscape.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:lockguides="false"
+     inkscape:zoom="1.3772587"
+     inkscape:cx="336.90112"
+     inkscape:cy="364.8552"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999998"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+    <inkscape:grid
+       type="axonomgrid"
+       id="grid2"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999998"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       enabled="false"
+       visible="true" />
+    <inkscape:grid
+       type="modular"
+       id="grid3"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="39.999999"
+       spacingy="40.000001"
+       empcolor="#0047cb"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="0"
+       marginx="0"
+       marginy="0"
+       gapx="9.9999998"
+       gapy="10"
+       enabled="false"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <rect
+       x="326.736"
+       y="217.824"
+       width="103.82944"
+       height="23.96064"
+       id="rect8" />
+    <rect
+       x="326.73599"
+       y="217.82401"
+       width="103.82944"
+       height="23.96064"
+       id="rect8-1" />
+  </defs>
+  <g
+     inkscape:label="Laag 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <ellipse
+       style="fill:#00ffff;fill-opacity:0.67541;stroke-width:0.492198"
+       id="path5"
+       cx="84.719917"
+       cy="68.342659"
+       rx="34.963776"
+       ry="33.090717" />
+    <ellipse
+       style="fill:#00ff00;fill-opacity:0.491803;stroke-width:0.494819"
+       id="path6"
+       cx="63.011646"
+       cy="99.704399"
+       rx="38.229626"
+       ry="34.771667" />
+    <ellipse
+       style="fill:#ff00ff;fill-opacity:0.580328;stroke-width:0.463731"
+       id="path7"
+       cx="103.45051"
+       cy="99.896507"
+       rx="37.173027"
+       ry="34.579559" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.34147804,0,0,0.86370736,-40.348637,-137.94018)"
+       id="text8"
+       style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect8);fill:#00ffff;fill-opacity:0.67541"><tspan
+         x="326.73633"
+         y="228.77218"
+         id="tspan3"><tspan
+           style="fill:#280b0b"
+           id="tspan1">Environmental</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.37987278,0,0,0.63645342,-18.009877,-43.331988)"
+       id="text8-3"
+       style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect8-1);display:inline;fill:#00ffff;fill-opacity:0.67541"><tspan
+         x="326.73633"
+         y="228.77218"
+         id="tspan5"><tspan
+           style="fill:#2b0000"
+           id="tspan4">Fashion</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#280b0b;fill-opacity:0.67541;stroke-width:0.264583"
+       x="110.46249"
+       y="59.553684"
+       id="text9"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         style="stroke-width:0.264583"
+         x="110.46249"
+         y="59.553684" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.80271px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#2b0000;fill-opacity:0.67541;stroke-width:0.816891"
+       x="47.09206"
+       y="96.913429"
+       id="text10"
+       transform="scale(0.93664897,1.0676358)"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         style="stroke-width:0.816891"
+         x="47.09206"
+         y="96.913429">Art</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.63417px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#2b0000;fill-opacity:0.67541;stroke-width:0.469513"
+       x="96.401154"
+       y="71.701462"
+       id="text11"
+       transform="scale(0.78787023,1.2692446)"><tspan
+         sodipodi:role="line"
+         id="tspan11"
+         style="stroke-width:0.469513"
+         x="96.401154"
+         y="71.701462">Modelling</tspan></text>
+  </g>
+</svg>
