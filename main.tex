@@ -1,0 +1,35 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{natbib}    % für \citet, \citep
+\usepackage{graphicx}  % für \includegraphics
+\usepackage{caption}   % optional, für Bildunterschriften
+\usepackage{float}     % optional, für [H]-Option
+
+\title{Microclimatic Cooling Effects of Different Street Tree Species}
+\author{Your Name}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+Urban trees can help mitigate the urban heat island through evapotranspiration. 
+However, growing conditions in cities are heterogeneous and micrometeorological 
+conditions in street canyons can have a large impact on a tree's transpiration. 
+
+Here we investigated a common urban street tree species \textit{Tilia cordata} 
+of different ages and sizes, planted in two contrasting street canyons in a densely 
+built neighbourhood within Munich, Germany: Bordeaux Platz, an open green square (OGS), 
+and Pariser Platz \citet{WOS:000389089800036}.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{bild.pdf} % deine Inkscape-Datei
+    \caption{Example of street tree data visualization exported from Inkscape.}
+    \label{fig:streettree}
+\end{figure}
+
+\bibliographystyle{plainnat}
+\bibliography{references} % deine Bib-Datei unverändert
+
+\end{document}
+
