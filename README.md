@@ -92,3 +92,7 @@ Check that your PR contains:
 1. Commit early and often; each commit is a snapshot of your progress.
 2. Use descriptive branch names (e.g., student-alicej) to avoid conflicts.
 3. GitHub’s web interface can be used for simple edits if you prefer not to use the terminal.
+
+
+UPDATE:
+We completed the tasks in class and have now figured out how to fork the repository and commit and push our changes to it. See you next week!
